@@ -3,6 +3,7 @@
   height: 50%;
 }
 body{
+  background-color: green;
   display:block;
   align-items:center;
   justify-content:center;
